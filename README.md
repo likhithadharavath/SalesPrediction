@@ -1,1 +1,1 @@
-Mchine learning project to pridict sale in a store using big mart data.
+## Machine learning project to pridict sale in a store using big mart data.
